@@ -1,0 +1,9 @@
+@import "./styles/config/fonts";
+@import "./styles/config/reset";
+@import "./styles/config/variables";
+@import "./styles/config/global";
+@import "./styles/config/md";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
